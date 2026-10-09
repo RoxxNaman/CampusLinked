@@ -1,0 +1,6 @@
+{
+  "name": "CampusLink",
+  "description": "A full-stack real-time chat application featuring secure authentication, 1-on-1 and group messaging, WebSockets, persistent storage, multimedia sharing, encryption, and context-aware AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
